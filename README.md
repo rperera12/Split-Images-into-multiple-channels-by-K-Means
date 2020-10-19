@@ -22,53 +22,54 @@ combined = plot_masks(192, 192, K, channel)
 
 ```
 # Results 
-## Original Segmented Image
+
+### Original Segmented Image
 
 ![Original Segmented Image](/images/original.png)
-Format: ![Original Segmented Image]
+Format: ![Original Segmented Image](url)
 
-# Separated Channels/Classes/Colors using Clusters = 13
+### Separated Channels/Classes/Colors using Clusters = 13
 
 ![1st Channel Segmented Image](/images/channel1.png)
-Format: ![Channel 1]
+Format: ![Channel 1](url)
 
 ![2nd Channel Segmented Image](/images/channel2.png)
-Format: ![Channel 2]
+Format: ![Channel 2](url)
 
 ![3rd Channel Segmented Image](/images/channel3.png)
-Format: ![Channel 3]
+Format: ![Channel 3](url)
 
 ![4th Channel Segmented Image](/images/channel4.png)
-Format: ![Channel 4]
+Format: ![Channel 4](url)
 
 ![5th Channel Segmented Image](/images/channel5.png)
-Format: ![Channel 5]
+Format: ![Channel 5](url)
 
 ![6th Channel Segmented Image](/images/channel6.png)
-Format: ![Channel 6]
+Format: ![Channel 6](url)
 
 ![7th Channel Segmented Image](/images/channel7.png)
-Format: ![Channel 7]
+Format: ![Channel 7](url)
 
 ![8th Channel Segmented Image](/images/channel8.png)
-Format: ![Channel 8]
+Format: ![Channel 8](url)
 
 ![9th Channel Segmented Image](/images/channel9.png)
-Format: ![Channel 9]
+Format: ![Channel 9](url)
 
 ![10th Channel Segmented Image](/images/channel10.png)
-Format: ![Channel 10]
+Format: ![Channel 10](url)
 
 ![11th Channel Segmented Image](/images/channel11.png)
-Format: ![Channel 11]
+Format: ![Channel 11](url)
 
 ![12th Channel Segmented Image](/images/channel12.png)
-Format: ![Channel 12]
+Format: ![Channel 12](url)
 
 ![13th Channel Segmented Image](/images/channel13.png)
-Format: ![Channel 13]
+Format: ![Channel 13](url)
 
 # Finally, all the channels are combined together and displayed below, note & compare the original segmented image to the resultant image shown below
 
-![Original Segmented Image](/images/original.png) Format: ![Original]  ![Combined Results Image](/images/combined_results.png)
-Format: ![Combined Results]
+![Original Segmented Image](/images/original.png) Format: ![Original](url)  ![Combined Results Image](/images/combined_results.png)
+Format: ![Combined Results](url)
