@@ -30,42 +30,44 @@ Format: ![Alt Text](url)
 # Separated Channels/Classes/Colors using Clusters = 13
 
 ![1st Channel Segmented Image](/images/channel1.png)
-Format: ![Alt Text](url)
+
 
 ![2nd Channel Segmented Image](/images/channel2.png)
-Format: ![Alt Text](url)
+
 
 ![3rd Channel Segmented Image](/images/channel3.png)
-Format: ![Alt Text](url)
+
 
 ![4th Channel Segmented Image](/images/channel4.png)
-Format: ![Alt Text](url)
+
 
 ![5th Channel Segmented Image](/images/channel5.png)
-Format: ![Alt Text](url)
+
 
 ![6th Channel Segmented Image](/images/channel6.png)
-Format: ![Alt Text](url)
+
 
 ![7th Channel Segmented Image](/images/channel7.png)
-Format: ![Alt Text](url)
+
 
 ![8th Channel Segmented Image](/images/channel8.png)
-Format: ![Alt Text](url)
+
 
 ![9th Channel Segmented Image](/images/channel9.png)
-Format: ![Alt Text](url)
+
 
 ![10th Channel Segmented Image](/images/channel10.png)
-Format: ![Alt Text](url)
+
 
 ![11th Channel Segmented Image](/images/channel11.png)
-Format: ![Alt Text](url)
+
 
 ![12th Channel Segmented Image](/images/channel12.png)
-Format: ![Alt Text](url)
+
 
 ![13th Channel Segmented Image](/images/channel13.png)
-Format: ![Alt Text](url)
+
 
 # Finally, all the channels are combined together and displayed below, note & compare the original segmented image to the resultant image shown below
+
+![Original Segmented Image](/images/original.png)  ![Combined Results Image](/images/combined_results.png)
