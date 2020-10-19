@@ -22,52 +22,53 @@ combined = plot_masks(192, 192, K, channel)
 
 ```
 # Results 
-Original Segmented Image
+## Original Segmented Image
 
 ![Original Segmented Image](/images/original.png)
-Format: ![Alt Text](url)
+Format: ![Original Segmented Image]
 
 # Separated Channels/Classes/Colors using Clusters = 13
 
 ![1st Channel Segmented Image](/images/channel1.png)
-
+Format: ![Channel 1]
 
 ![2nd Channel Segmented Image](/images/channel2.png)
-
+Format: ![Channel 2]
 
 ![3rd Channel Segmented Image](/images/channel3.png)
-
+Format: ![Channel 3]
 
 ![4th Channel Segmented Image](/images/channel4.png)
-
+Format: ![Channel 4]
 
 ![5th Channel Segmented Image](/images/channel5.png)
-
+Format: ![Channel 5]
 
 ![6th Channel Segmented Image](/images/channel6.png)
-
+Format: ![Channel 6]
 
 ![7th Channel Segmented Image](/images/channel7.png)
-
+Format: ![Channel 7]
 
 ![8th Channel Segmented Image](/images/channel8.png)
-
+Format: ![Channel 8]
 
 ![9th Channel Segmented Image](/images/channel9.png)
-
+Format: ![Channel 9]
 
 ![10th Channel Segmented Image](/images/channel10.png)
-
+Format: ![Channel 10]
 
 ![11th Channel Segmented Image](/images/channel11.png)
-
+Format: ![Channel 11]
 
 ![12th Channel Segmented Image](/images/channel12.png)
-
+Format: ![Channel 12]
 
 ![13th Channel Segmented Image](/images/channel13.png)
-
+Format: ![Channel 13]
 
 # Finally, all the channels are combined together and displayed below, note & compare the original segmented image to the resultant image shown below
 
-![Original Segmented Image](/images/original.png)  ![Combined Results Image](/images/combined_results.png)
+![Original Segmented Image](/images/original.png) Format: ![Original]  ![Combined Results Image](/images/combined_results.png)
+Format: ![Combined Results]
