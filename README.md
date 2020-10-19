@@ -69,7 +69,7 @@ Format: ![Channel 12](url)
 ![13th Channel Segmented Image](/images/channel13.png)
 Format: ![Channel 13](url)
 
-# Finally, all the channels are combined together and displayed below, note & compare the original segmented image to the resultant image shown below
+### Finally, all the channels are combined together and displayed below, note & compare the original segmented image to the resultant image shown below
 
 ![Original Segmented Image](/images/original.png) Format: ![Original](url)  ![Combined Results Image](/images/combined_results.png)
 Format: ![Combined Results](url)
