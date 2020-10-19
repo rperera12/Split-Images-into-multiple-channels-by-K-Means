@@ -30,44 +30,19 @@ Format: ![Original Segmented Image](url)
 
 ### Separated Channels/Classes/Colors using Clusters = 13
 
-![1st Channel Segmented Image](/images/channel1.png)
-Format: ![Channel 1](url)
+![1st Channel Segmented Image](/images/channel1.png) Format: ![Channel 1](url)  ![2nd Channel Segmented Image](/images/channel2.png) Format: ![Channel 2](url)
 
-![2nd Channel Segmented Image](/images/channel2.png)
-Format: ![Channel 2](url)
+![3rd Channel Segmented Image](/images/channel3.png) Format: ![Channel 3](url)  ![4th Channel Segmented Image](/images/channel4.png) Format: ![Channel 4](url)
 
-![3rd Channel Segmented Image](/images/channel3.png)
-Format: ![Channel 3](url)
+![5th Channel Segmented Image](/images/channel5.png) Format: ![Channel 5](url)  ![6th Channel Segmented Image](/images/channel6.png) Format: ![Channel 6](url)
 
-![4th Channel Segmented Image](/images/channel4.png)
-Format: ![Channel 4](url)
+![7th Channel Segmented Image](/images/channel7.png) Format: ![Channel 7](url)  ![8th Channel Segmented Image](/images/channel8.png) Format: ![Channel 8](url)
 
-![5th Channel Segmented Image](/images/channel5.png)
-Format: ![Channel 5](url)
+![9th Channel Segmented Image](/images/channel9.png) Format: ![Channel 9](url)  ![10th Channel Segmented Image](/images/channel10.png) Format: ![Channel 10](url)
 
-![6th Channel Segmented Image](/images/channel6.png)
-Format: ![Channel 6](url)
+![11th Channel Segmented Image](/images/channel11.png) Format: ![Channel 11](url) ![12th Channel Segmented Image](/images/channel12.png) Format: ![Channel 12](url)
 
-![7th Channel Segmented Image](/images/channel7.png)
-Format: ![Channel 7](url)
-
-![8th Channel Segmented Image](/images/channel8.png)
-Format: ![Channel 8](url)
-
-![9th Channel Segmented Image](/images/channel9.png)
-Format: ![Channel 9](url)
-
-![10th Channel Segmented Image](/images/channel10.png)
-Format: ![Channel 10](url)
-
-![11th Channel Segmented Image](/images/channel11.png)
-Format: ![Channel 11](url)
-
-![12th Channel Segmented Image](/images/channel12.png)
-Format: ![Channel 12](url)
-
-![13th Channel Segmented Image](/images/channel13.png)
-Format: ![Channel 13](url)
+![13th Channel Segmented Image](/images/channel13.png) Format: ![Channel 13](url)
 
 ### Finally, all the channels are combined together and displayed below, note & compare the original segmented image to the resultant image shown below
 
