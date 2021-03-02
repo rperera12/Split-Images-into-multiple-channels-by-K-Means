@@ -30,7 +30,7 @@ Format: ![Original Segmented Image](url)
 
 ### Separated Channels/Classes/Colors using Clusters = 13
 
-![1st Channel Segmented Image](/images/channel1.png) Format: ![Channel 1](url)  ![2nd Channel Segmented Image](/images/channel2.png) Format: ![Channel 2](url)
+[1st Channel Segmented Image](/images/channel1.png) Format: ![Channel 1](url)  ![2nd Channel Segmented Image](/images/channel2.png) Format: ![Channel 2](url)
 
 ![3rd Channel Segmented Image](/images/channel3.png) Format: ![Channel 3](url)  ![4th Channel Segmented Image](/images/channel4.png) Format: ![Channel 4](url)
 
