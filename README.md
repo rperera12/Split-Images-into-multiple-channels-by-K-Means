@@ -30,35 +30,50 @@ combined = plot_masks(192, 192, K, channel)
 
 ### Separated Channels/Classes/Colors using Clusters = 13
 
+#### Channel 1
 ![1st Channel Segmented Image](/images/channel1.png)
 
+#### Channel 2
 ![2nd Channel Segmented Image](/images/channel2.png) 
 
+#### Channel 3
 ![3rd Channel Segmented Image](/images/channel3.png) 
 
+#### Channel 4
 ![4th Channel Segmented Image](/images/channel4.png) 
 
+#### Channel 5
 ![5th Channel Segmented Image](/images/channel5.png) 
 
-[6th Channel Segmented Image](/images/channel6.png)
+#### Channel 6
+![6th Channel Segmented Image](/images/channel6.png)
 
+#### Channel 7
 ![7th Channel Segmented Image](/images/channel7.png)  
 
+#### Channel 8
 ![8th Channel Segmented Image](/images/channel8.png) 
 
+#### Channel 9
 ![9th Channel Segmented Image](/images/channel9.png)  
 
+#### Channel 10
 ![10th Channel Segmented Image](/images/channel10.png) 
 
+#### Channel 11
 ![11th Channel Segmented Image](/images/channel11.png) 
 
+#### Channel 12
 ![12th Channel Segmented Image](/images/channel12.png) 
 
+#### Channel 13
 ![13th Channel Segmented Image](/images/channel13.png)
 
 ### Finally, all the channels are combined together and displayed below, note & compare the original segmented image to the resultant image shown below
 
+#### Original
 ![Original Segmented Image](/images/original.png)
 
+#### Combined Channels by K-Means (1-13)
 ![Combined Results Image](/images/combined_results.png)
 
