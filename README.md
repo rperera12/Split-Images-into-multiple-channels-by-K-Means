@@ -26,13 +26,17 @@ combined = plot_masks(192, 192, K, channel)
 ### Original Segmented Image
 
 [Original Segmented Image](/images/original.png)
-Format: [Original Segmented Image](url)
+
 
 ### Separated Channels/Classes/Colors using Clusters = 13
 
-[1st Channel Segmented Image](/images/channel1.png) Format: [Channel 1](url)  [2nd Channel Segmented Image](/images/channel2.png) Format: [Channel 2](url)
+[1st Channel Segmented Image](/images/channel1.png)
 
-[3rd Channel Segmented Image](/images/channel3.png) Format: [Channel 3](url)  [4th Channel Segmented Image](/images/channel4.png) Format: [Channel 4](url)
+[2nd Channel Segmented Image](/images/channel2.png) 
+
+[3rd Channel Segmented Image](/images/channel3.png) 
+
+[4th Channel Segmented Image](/images/channel4.png) 
 
 [5th Channel Segmented Image](/images/channel5.png) Format: [Channel 5](url)  [6th Channel Segmented Image](/images/channel6.png) Format: [Channel 6](url)
 
