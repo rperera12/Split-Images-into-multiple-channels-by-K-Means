@@ -30,7 +30,7 @@ combined = plot_masks(192, 192, K, channel)
 
 ### Separated Channels/Classes/Colors using Clusters = 13
 
-#### Channel 1                           Channel 2
+#### Channel 1       <br />      <br /> <br /> <br /> <br /> Channel 2
 ![1st Channel Segmented Image](/images/channel1.png)      ![2nd Channel Segmented Image](/images/channel2.png) 
 
 #### Channel 2                           Channe l
