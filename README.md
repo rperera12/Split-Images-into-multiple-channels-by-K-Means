@@ -25,7 +25,7 @@ combined = plot_masks(192, 192, K, channel)
 
 ### Original Segmented Image
 
-[Original Segmented Image](/images/original.png)
+![Original Segmented Image](/images/original.png)
 
 
 ### Separated Channels/Classes/Colors using Clusters = 13
